@@ -101,7 +101,7 @@ PhishGuard is an intelligent phishing and scam detection platform that analyzes 
 
 ## 🔗 Links Section
 
-- 📦 **Repository:** _Add your GitHub repository link here_
+- 📦 **Repository:** https://github.com/agameraki/PhisGaurd-phishing-detection-platform
 - 🚀 **Live Demo:** https://phis-gaurd-phishing-detection-platf.vercel.app
 
 ---
