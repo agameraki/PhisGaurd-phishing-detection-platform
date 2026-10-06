@@ -80,11 +80,6 @@ PhishGuard is an intelligent phishing and scam detection platform that analyzes 
 - dotenv for environment configuration
 - In-built/custom payment module (no external payment gateway)
 
-**🧰 Tooling**
-- ESLint
-- PostCSS + Autoprefixer
-- Nodemon (development)
-
 ---
 
 ## ⚙️ Techniques Used
